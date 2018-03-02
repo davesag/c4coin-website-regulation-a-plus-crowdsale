@@ -1,4 +1,4 @@
-# website-regulation-a-plus-Crowdsale
+# website-regulation-a-plus-crowdsale
 
 The web front end for C4Coin's Regulation A+ Crowdsale, allowing investors to register, and providing a range of investor services.
 
