@@ -25,6 +25,7 @@ The web front end for C4Coin's Regulation A+ Crowdsale, allowing investors to re
     - privacy statement / security of file uploads / file retention policy
 
   - Supply/update linked ETH address
+  - [Stop Transfer](https://www.sec.gov/fast-answers/answerslostcerthtm.html) request handling.
 
 * Password reset
 * Display info about the Crowdsale (progress, duration, time remaining, shares sold/remaining etc.)
@@ -78,7 +79,8 @@ The web front end for C4Coin's Regulation A+ Crowdsale, allowing investors to re
 
 ## Development
 
-The site will be built using `react-create-app` as a base and will conform to the general coding standards common to all of the C4Coin sites.
+* The site will be built using `react-create-app` as a base and will conform to the general coding standards common to all of the C4Coin sites.
+* The ['fractal'](https://hackernoon.com/fractal-a-react-app-structure-for-infinite-scale-4dab943092af) React app structure will be followed.
 
 ### Development Prerequisites
 
